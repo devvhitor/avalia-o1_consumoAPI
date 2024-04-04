@@ -19,5 +19,4 @@ Este é um simples buscador de CEP desenvolvido em Python, que utiliza a API pú
      python buscar_cep.py
      ```
    - Siga as instruções para digitar o CEP desejado e veja as informações de endereço correspondentes.
-
-4. **Exemplo de uso:**
+*
