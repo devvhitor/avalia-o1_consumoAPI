@@ -8,6 +8,7 @@ Este é um simples buscador de CEP desenvolvido em Python, que utiliza a API pú
 1. **Pré-requisitos:**
    - Python 3.x instalado no seu sistema.
    - Conexão com a internet para acessar a API do ViaCEP.
+   - Utilize pip install -r requirements.txt para instalar a versão utilizada da biblioteca requests
 
 2. **Instalação:**
    - Faça o clone deste repositório para o seu computador.
