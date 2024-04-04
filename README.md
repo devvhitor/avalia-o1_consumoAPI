@@ -1,4 +1,4 @@
-# avalia-o1_consumoAPI
+
 # Buscador de CEP
 
 Este é um simples buscador de CEP desenvolvido em Python, que utiliza a API pública do ViaCEP para obter informações de endereços a partir de um CEP fornecido pelo usuário.
